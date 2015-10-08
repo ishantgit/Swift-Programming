@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8C4049AB-0EC9-4EB5-BEA2-4EEA1D5F72A2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyFirstPlayground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EAEC5F8DBC2AF7F91FBF3195C58882AABAF21897</key>
+		<string>https://github.com/ishantgit/Swift-Programming.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyFirstPlayground.playground</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EAEC5F8DBC2AF7F91FBF3195C58882AABAF21897</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ishantgit/Swift-Programming.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EAEC5F8DBC2AF7F91FBF3195C58882AABAF21897</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EAEC5F8DBC2AF7F91FBF3195C58882AABAF21897</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift%20Programming</string>
+		</dict>
+	</array>
+</dict>
+</plist>
